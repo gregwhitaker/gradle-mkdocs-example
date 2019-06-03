@@ -1,4 +1,4 @@
-# Netifi Documentation
+# gradle-mkdocs-example
 This project provides a template for building documentation websites with [Gradle](https://www.gradle.org) and [MkDocs](https://www.mkdocs.org/).
 
 ## Prerequisites
